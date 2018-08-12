@@ -1,3 +1,3 @@
-# COMP125-S2018-Lesson13
+# COMP125-S2018-Assignment-4
 
-Demo project for express-generator
+Assignment 4 project for express-generator
