@@ -4,7 +4,7 @@ let router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('content/index', { 
-    title: 'Express Demo' 
+    title: 'Express Assignment 4' 
   });
 });
 
@@ -12,16 +12,16 @@ router.get('/', function(req, res, next) {
 /* GET about page. */
 router.get('/about', function(req, res, next) {
   res.render('content/about', { 
-    title: 'About Express',
-    author: 'Tom Tsiliopoulos'
+    title: 'About Express Assignment 4',
+    author: 'Vallipuram Selvanesan'
  });
 });
 
 /* GET contact page. */
 router.get('/contact', function(req, res, next) {
   res.render('content/contact', { 
-    title: 'Contact Me',
-    authors: ['Tom', 'Mark', 'Luke', 'Jaden', 'John']
+    title: 'Contact Us about the assignment 4',
+    authors: ['Tom', 'Nesan', 'John', 'Kamal', 'Raj']
  });
 });
 
