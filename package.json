@@ -1,5 +1,5 @@
 {
-  "name": "comp125-s2018-lesson13",
+  "name": "comp125-s2018-Assignemnt4",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,9 +18,9 @@
     "morgan": "~1.9.0",
     "popper.js": "^1.14.4"
   },
-  "description": "Demo for Express Generator",
+  "description": "Assginment 4 for Express Generator",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Vallipuram Selvanesan",
   "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.16.0",
