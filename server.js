@@ -5,7 +5,7 @@
  */
 
 var app = require('./app');
-var debug = require('debug')('comp125-s2018-assignment4:server');
+var debug = require('debug')('comp125-s2018-Assignment4:server');
 var http = require('http');
 
 /**
